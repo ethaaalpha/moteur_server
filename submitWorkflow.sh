@@ -132,7 +132,7 @@ done
 # Copying plugin conf files
 
 mkdir -p conf/
-cp ${MOTEUR_HOME}/conf/conf_*.conf conf/
+cp ${MOTEUR_HOME}/conf/conf_*.json conf/
 
 #############################################################
 
